@@ -38,3 +38,5 @@ Credits
 The anime/manga artwork used in this project is not my own.
 All rights to the original artwork and characters belong to their
 respective creators and rights holders.
+
+2026, September 23rd.
