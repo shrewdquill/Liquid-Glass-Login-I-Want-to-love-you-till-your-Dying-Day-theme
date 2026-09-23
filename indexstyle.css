@@ -1,0 +1,140 @@
+body {
+
+background-image: url(IWTLYTYDDBG.webp);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+background-size: cover;
+       
+     display: flex;
+     justify-content: center;
+     align-items: center;
+        
+         margin: 0;
+         min-height: 100vh;
+        
+}
+
+.maincontainer {
+width: 40rem;
+height:40rem ;
+margin: 0 auto;
+background-color: rgba(255, 255, 255, 0); backdrop-filter: blur(10px);
+padding: 1rem;
+box-shadow: inset 0 0 2px 1px #ffffff59, inset 0 0 10px 4px #ffffff26, inset 0 4px 16px #11111a0d, inset 0 8px 24px #11111a0d, inset 0 6px 56px #11111a0d;
+border-radius: 5rem;
+
+}
+
+.maincontainer h1 {
+     font-family: "Google Sans", sans-serif;
+     font-optical-sizing: auto;
+     font-weight:600;
+     font-style: normal;
+     font-variation-settings:
+     "GRAD" 0;
+color: rgba(255, 252, 252, 0.836);
+ text-shadow:
+0 -3px 2px rgba(255, 255, 255, 0.15),
+0 3px 3px rgba(0, 0, 0, 0.35);
+text-align: center;
+
+}
+
+.maincontainer p {
+     font-family: "Google Sans", sans-serif;
+     font-optical-sizing: auto;
+     font-weight:400;
+     font-style: normal;
+     font-variation-settings:
+     "GRAD" 0;
+
+color: rgba(255, 252, 252, 0.836);
+ text-shadow:
+0 -3px 2px rgba(255, 255, 255, 0.15),
+0 3px 3px rgba(0, 0, 0, 0.35);
+text-align: center;
+}
+
+.maincontainer label {
+     font-family: "Google Sans", sans-serif;
+     font-optical-sizing: auto;
+     font-weight:400;
+     font-style: normal;
+     font-variation-settings:
+     "GRAD" 0;
+color: rgba(255, 252, 252, 0.836);
+ text-shadow:
+0 -3px 2px rgba(255, 255, 255, 0.15),
+0 3px 3px rgba(0, 0, 0, 0.35);
+text-align: center;
+font-size: large;
+margin-top: 2rem;margin-bottom: 0.5rem;
+display: block;
+}
+
+.maincontainer input {
+
+ background: rgba(255, 255, 255, 0.15); 
+            backdrop-filter: blur(15px); 
+            border: 1px solid rgba(255, 255, 255, 0.3); 
+            box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.2);
+            width: 18rem;
+            padding: 0.6rem;
+            border-radius: 20px;
+
+}
+
+.maincontainer form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+margin: 0 auto;
+background-color: rgba(255, 255, 255, 0);
+padding: 1rem;
+box-shadow: inset 0 0 2px 1px #ffffff59, inset 0 0 10px 4px #ffffff26, inset 0 4px 16px #11111a0d, inset 0 8px 24px #11111a0d, inset 0 6px 56px #11111a0d;
+border-radius: 5rem;
+position: relative; overflow: hidden;
+ z-index: 1;
+}
+
+.maincontainer form::before{
+     content: "";
+background:url(IWTLYTYDDbg2.jpg);
+position: absolute; 
+background-size: cover; 
+filter: blur(5px);
+inset: 0; 
+background-position: center;
+z-index: -1; 
+}
+
+.maincontainer button {
+
+     font-family: "Google Sans", sans-serif;
+     font-optical-sizing: auto;
+     font-weight:400;
+     font-style: normal;
+     font-variation-settings:
+     "GRAD" 0;
+color: rgba(8, 8, 8, 0.836);
+ text-shadow:
+0 -3px 2px rgba(255, 255, 255, 0.15),
+0 3px 3px rgba(0, 0, 0, 0.35);
+text-align: center;
+font-size: large;
+margin: 2rem auto;
+
+
+
+
+backdrop-filter: blur(15px); 
+     backdrop-filter: blur(15px);
+     border: 1px solid rgba(255, 255, 255, 0.3); 
+     box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.2);
+     width: 18rem;
+     padding: 0.6rem;
+     border-radius: 20px;
+
+
+}
