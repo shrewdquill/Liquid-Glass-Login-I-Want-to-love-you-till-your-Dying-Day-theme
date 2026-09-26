@@ -6,8 +6,8 @@ A login page UI built as an HTML and CSS practice project.
 About
 -----
 I created this project while learning and practicing HTML and CSS.
-The design is based around the anime "I Want to Love You
-Till Your Dying Day (Kimi ga Shinu Made Koi wo Shitai)".
+it has the "I Want to Love You
+Till Your Dying Day (Kimi ga Shinu Made Koi wo Shitai)" theme.
 
 Features
 --------
